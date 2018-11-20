@@ -1,0 +1,29 @@
+<HTML>
+
+
+<head>
+<title>PPI.com</title>
+</head>
+<body style="background-color:pink;">
+
+<h1 style="font-size:500%;color:grey;">PPI.com</h1>
+
+<p style="color:green">Do you have PPI yes, no or I don't know, check our website at Do you have PPI.com</p>
+<p style="color:green">check out our youtube:</p>
+<a href="https://www.youtube.com/channel/UC4xfMhVyR2bH3mYCgZMdRhA">The youtube channel</a> 
+
+<b style="font-size:250%;border:2px solid black">NOT SCAM</b>
+
+<img src="https://www.haveigotppi.com/wp-content/themes/twentyfifteen-child/images/logo.png" width="150" height="150"
+
+</img>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TFnAHmrwTHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="file:///C:/Users/Pupil09/Desktop/2page.html">
+<button type="submit">next page</button>
+</a>
+
+
+</body>
+</HTML>
