@@ -1,2 +1,0 @@
-# Daniel-Johnstone
-ppi.com
